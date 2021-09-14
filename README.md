@@ -140,6 +140,9 @@ Por ultimo realizamos la opéracion que queda:
 
 9.7.CONCLUSIONES:
 
+- Un fasor es una representación gráfica de un número complejo que se utiliza para representar una oscilación, de forma que el fasor suma de varios fasores puede representar la magnitud y fase de la oscilación resultante de la superposición de varias oscilaciones en un proceso de interferencia.
+
+- Se pudo comprobar que los valores obtenidos mediante las fórmulas y la calculadora cientifica coinciden. Así mismo tanto para las tablas obtenidas, se comprobó las fórmulas para cada literal, los cálculos obtenidos nos asemejan a una silmulación real, todo este proceso de usar la ley antes indicados nos permiten a los valores sean precisos y casi exactos.
 
 9.8.BIBLIOGRAFIA:
 
