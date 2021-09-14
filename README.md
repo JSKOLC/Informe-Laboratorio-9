@@ -117,7 +117,7 @@ Realice las siguientes operaciones paso a paso, y represente el resultado tanto 
 
 Realizamos la división, dividir la parte entera,es decir dividir el numerador para el denominador, y restar los angulos. De igual manera, al angulo del numerador le restamos el angulo del denominador.
 
-![imagen](https://user-images.githubusercontent.com/85263529/133293484-9a48ab0a-6033-44b3-9f54-23cb5487e547.png)
+![imagen](https://user-images.githubusercontent.com/85263529/133297719-b9a93196-2f74-47fc-95ea-310802a7674e.png)
 
 Siguiente paso:
 
