@@ -63,8 +63,9 @@ Objetivos Específicos:
  
  ![image](https://user-images.githubusercontent.com/85263529/133192060-014d255d-8426-4f49-b79a-4a801ffca66a.png)
 
-
-
+ c) 4.3 - 2.8j =
+ 
+ ![imagen](https://user-images.githubusercontent.com/85263529/133292666-2422e8fe-6e62-44a7-a0ae-506cf2d74b7d.png)
 
 
  d) -6 – 3.2j =
@@ -83,8 +84,9 @@ Objetivos Específicos:
  
 ![image](https://user-images.githubusercontent.com/85263529/133192284-39192592-9c64-4ceb-b7e3-023aa4853442.png)
 
+c) 11.2\ \angle\ 28°
 
-
+![imagen](https://user-images.githubusercontent.com/85263529/133292869-373cb3cc-4118-4a73-b645-f90923cfec96.png)
 
  d)	45   I_   -117.9º
  
@@ -109,7 +111,27 @@ Realice las siguientes operaciones paso a paso, y represente el resultado tanto 
 
 ![image](https://user-images.githubusercontent.com/85263529/133192126-0ee33561-59d2-403c-8d25-ea2da611a826.png)
 
+ c) 34+28.5j4∠-20.8°- 51.2 ∠-215°
  
+ ![imagen](https://user-images.githubusercontent.com/85263529/133293038-e3d972f7-9e46-43a0-b4c3-7ce7f2a9dc9e.png)
+
+Realizamos la división, dividir la parte entera,es decir dividir el numerador para el denominador, y restar los angulos. De igual manera, al angulo del numerador le restamos el angulo del denominador.
+
+![imagen](https://user-images.githubusercontent.com/85263529/133293484-9a48ab0a-6033-44b3-9f54-23cb5487e547.png)
+
+Siguiente paso:
+
+![imagen](https://user-images.githubusercontent.com/85263529/133293632-0ed0c974-4db8-41b8-93ac-1f22b7b288b3.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/133293734-e3bb0252-3fa7-4d4b-8064-dbb72b541a96.png)
+
+Por ultimo realizamos la opéracion que queda:
+
+![imagen](https://user-images.githubusercontent.com/85263529/133293870-0f613e3f-39a7-4d1b-998d-fcb1a1aee1d3.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/133293962-0be4d18a-c3db-4433-a531-e693092fd4c0.png)
+
+
 9.6.VIDEO:
 
 
