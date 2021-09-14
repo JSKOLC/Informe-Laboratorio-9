@@ -47,6 +47,12 @@ Objetivos Específicos:
  a)	2 + 3j =
  
  ![image](https://user-images.githubusercontent.com/85263529/133187573-d4fdb799-e4b9-4a36-90c1-4eff1685c5f1.png)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/133192060-014d255d-8426-4f49-b79a-4a801ffca66a.png)
+
+
+
 
 
  d) -6 – 3.2j =
@@ -60,6 +66,12 @@ Objetivos Específicos:
  a) 36   I_   -10º 
  
  ![image](https://user-images.githubusercontent.com/85263529/133187726-421da2a8-c50d-4910-9c1c-a16dd211aa75.png)
+ 
+ 
+ 
+![image](https://user-images.githubusercontent.com/85263529/133192284-39192592-9c64-4ceb-b7e3-023aa4853442.png)
+
+
 
 
  d)	45   I_   -117.9º
@@ -79,7 +91,12 @@ Realice las siguientes operaciones paso a paso, y represente el resultado tanto 
 
 
 
- 
+
+
+![image](https://user-images.githubusercontent.com/85263529/133192078-8579881f-d5ac-4f93-a506-9023e157bb99.png)
+
+![image](https://user-images.githubusercontent.com/85263529/133192126-0ee33561-59d2-403c-8d25-ea2da611a826.png)
+
  
 9.6.VIDEO:
 
