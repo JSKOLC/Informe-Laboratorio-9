@@ -16,7 +16,7 @@ TEMA: FASORES
 
 9.1. OBJETIVO DE LA PRÁCTICA
 
-Objetivos Generales:
+Objetivos Generales: Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular. 
 
 
 Objetivos Específicos:
@@ -32,7 +32,45 @@ Objetivos Específicos:
 
 9.5.PROCEDIMIENTO:
 
+ Transforme a su forma polar:
+ 
+ a)	2 + 3j =
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/133187573-d4fdb799-e4b9-4a36-90c1-4eff1685c5f1.png)
 
+
+ d) -6 – 3.2j =
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/133187619-ceed0115-3503-4b4b-9611-0b6e1f8c09f5.png)
+
+
+ Transforme a su forma rectangular:
+ 
+ a) 36   I_   -10º 
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/133187726-421da2a8-c50d-4910-9c1c-a16dd211aa75.png)
+
+
+ d)	45   I_   -117.9º
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/133187795-7b702ca7-4ba0-4b1c-91a0-b51ac5476e09.png)
+
+
+Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar:
+
+![image](https://user-images.githubusercontent.com/85263529/133187827-8144b186-632c-4450-bbd0-9a96412d02c5.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/133187852-be8d1444-48e7-4ca7-ab48-54890f723940.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/133187892-0614509e-38e0-4657-a4bd-f79073215965.png)
+
+
+
+ 
+ 
 9.6.VIDEO:
 
 
