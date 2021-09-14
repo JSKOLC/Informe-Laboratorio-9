@@ -16,7 +16,8 @@ TEMA: FASORES
 
 9.1. OBJETIVO DE LA PRÁCTICA
 
-Objetivos Generales: Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular. 
+Objetivos Generales: Realizar operaciones arit
+méticas con números complejos, tanto en su forma polar como rectangular. 
 
 
 Objetivos Específicos:
@@ -24,6 +25,15 @@ Objetivos Específicos:
 *Aplicar los conocimientos impartidos en clase mediante esta práctica de laboratorio.
 
 *Realizar los ejercicios de manera ágil y correcta.
+
+*Trabajar con los concepto de tres fases
+
+*Analizar los circuitos donde se use transformadores y circuitos acoplados.
+
+*Describir analítica y gráficamente el comportamiento de la forma de onda tanto de voltaje como de corriente
+
+*Determinar las magnitudes del fasor.
+
 
 
 
