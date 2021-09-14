@@ -25,13 +25,25 @@ Objetivos Específicos:
 
 9.2.MARCO TEORICO:
 
+
+![image](https://user-images.githubusercontent.com/85263529/133197323-11e49319-fbd5-4463-8d63-9505fb200964.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/133197337-90a67efe-91ea-4d54-886c-75718b92e0ff.png)
+
+![image](https://user-images.githubusercontent.com/85263529/133197359-8e17dd0d-12b4-4638-ae46-00b2c622c15c.png)
+
+
+
 9.3. INFORMACIÓN GENERAL:
 
 ![image](https://user-images.githubusercontent.com/85263529/133188636-62579b30-1000-41f7-be4f-fdc0064758f1.png)
 
 ![image](https://user-images.githubusercontent.com/85263529/133188665-0dccb947-2b21-43c9-957a-fb2c39d6381b.png)
 
-![image](https://user-images.githubusercontent.com/85263529/133188699-4a0a9a87-5085-459b-9956-2d25a42b9c37.png)
+
+![image](https://user-images.githubusercontent.com/85263529/133197385-aa648b15-f460-4895-ae4d-34991fdff5cc.png)
+
 
 
 9.4. MATERIAL Y EQUIPO REQUERIDO:
