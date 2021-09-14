@@ -31,6 +31,7 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/85263529/133197337-90a67efe-91ea-4d54-886c-75718b92e0ff.png)
 
+
 ![image](https://user-images.githubusercontent.com/85263529/133197359-8e17dd0d-12b4-4638-ae46-00b2c622c15c.png)
 
 
@@ -42,7 +43,6 @@ Objetivos Específicos:
 ![image](https://user-images.githubusercontent.com/85263529/133188665-0dccb947-2b21-43c9-957a-fb2c39d6381b.png)
 
 
-![image](https://user-images.githubusercontent.com/85263529/133197385-aa648b15-f460-4895-ae4d-34991fdff5cc.png)
 
 
 
