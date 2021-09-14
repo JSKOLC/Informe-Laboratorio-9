@@ -117,11 +117,13 @@ Realice las siguientes operaciones paso a paso, y represente el resultado tanto 
 
 Realizamos la división, dividir la parte real, es decir dividir el numerador para el denominador, y restar los angulos. De igual manera, al angulo del numerador le restamos el angulo del denominador.
 
-![imagen](https://user-images.githubusercontent.com/85263529/133297719-b9a93196-2f74-47fc-95ea-310802a7674e.png)
+![imagen](https://user-images.githubusercontent.com/85263529/133298018-eee4a9fa-e5b2-4920-9848-93d1767be897.png)
+
 
 Siguiente paso:
 
-![imagen](https://user-images.githubusercontent.com/85263529/133293632-0ed0c974-4db8-41b8-93ac-1f22b7b288b3.png)
+![imagen](https://user-images.githubusercontent.com/85263529/133298331-358b7cdf-9cf4-43e7-b4e0-96d9dc125e6a.png)
+
 
 ![imagen](https://user-images.githubusercontent.com/85263529/133293734-e3bb0252-3fa7-4d4b-8064-dbb72b541a96.png)
 
