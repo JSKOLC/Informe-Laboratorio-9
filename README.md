@@ -21,6 +21,11 @@ Objetivos Generales: Realizar operaciones aritméticas con números complejos, t
 
 Objetivos Específicos:
 
+*Aplicar los conocimientos impartidos en clase mediante esta práctica de laboratorio.
+
+*Realizar los ejercicios de manera ágil y correcta.
+
+
 
 
 9.2.MARCO TEORICO:
@@ -133,8 +138,15 @@ Por ultimo realizamos la opéracion que queda:
 
 ![imagen](https://user-images.githubusercontent.com/85263529/133293962-0be4d18a-c3db-4433-a531-e693092fd4c0.png)
 
+Comprobar en la calculadora:
+
+![image](https://user-images.githubusercontent.com/85263529/133301743-5c9272e2-0cfb-43cc-ab2b-2177a8a2c6db.png)
+
+
 
 9.6.VIDEO:
+
+https://youtu.be/mvnSafjYRuk
 
 
 
